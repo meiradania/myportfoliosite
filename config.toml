@@ -1,0 +1,4 @@
+baseURL = "http://meiradania.github.io"
+languageCode = "en-us"
+title = "Dânia Meira"
+theme = "hugo-uilite"

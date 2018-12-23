@@ -1,0 +1,37 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "Jul 2018 - Present",
+			"company" : "myToys",
+			"city" : "Berlin",
+			"title" : "Predictive Analytics",
+			"description" : "Developing exploratory analysis; developing, deploying and maintaing predictive machine learning models.",
+			"tools" : "Oracle DB, Tableau, R, Python, Jupyter Notebooks, Jenkins, Docker, ARIMA, Neural Networks, Random Forest, Gradient Boosting, Prophet"
+		},
+		{
+			"timeperiod" : "Apr 2015 - May 2018",
+			"company" : "EyeEm",
+			"city" : "Berlin",
+			"title" : "Data Quality, Analytics and Modelling",
+			"description" : "Building ETL jobs, creating dashboards and reports; developing exploratory analysis; developing machine learning models for sales probability and search ranking.",
+			"tools" : "Redshift, mySQL, Hive, S3, Flume, Oozie, Spark, Scala, EMR, Tableau, Python, Jupyter Notebooks, Jenkins, Regression, Random Forest, SVM, K-Means Clustering"
+		},
+		{
+			"timeperiod" : "Sep 2015 - Feb 2016",
+			"company" : "foodpanda",
+			"city" : "Berlin",
+			"title" : "Customer Behavior and Content Analytics",
+			"description" : "Answering business questions by developing exploratory analysis and machine learning models.",
+			"tools" : "PostgreSQL, Google BigQuery and R, XGBoost, Regression"
+		},
+		{
+			"timeperiod" : "Nov 2014 - May 2015",
+			"company" : "hypermindR",
+			"city" : "Rio de Janeiro",
+			"title" : " Customer Behavior Modelling",
+			"description" : "Developing a machine learning model to present personalized content for users; integrating it to the company's recommender engine API through a web service.",
+			"tools" : "MongoDB, R, PMML, Random Forest, K-Means and Agglomerative Hierarchical Clustering"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"title" : "Projects",
+	"services" : [
+		{
+			"icon" : "pencil-ruler",
+			"title" : "Data Science for Social Good",
+			"timeperiod" : "Oct 2016 - Present",
+			"description" : "Volunteer as Data Ambassador. Work in collabortation with the Deutsche Krebsgesellschaft (German Cancer Society) to get and clean their data, understand their challenge and propose possible solutions in preparation for the Datathon.",
+			"link" : "http://dssg-berlin.org"
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "Data Science Retreat",
+			"timeperiod" : "Sep 2017 - Present",
+			"description" : "SQL Masterclass. Retrieving data is the first step on the path of analytics and modeling, and this is the reason why SQL is a must-have skill for professionals in the data science industry. Learning outcomes include understanding the logic of transactional databases, connecting and aggregating information from different tables.",
+			"link" : "https://www.datascienceretreat.com/teachers/dania-meira"
+		}
+	]
+}
